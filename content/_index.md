@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Fresh.'
+    title: 'Hello! I''m Albert'
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
@@ -12,13 +12,15 @@ sections:
     type: section_content
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Welcome to the world according to Albert. This is my blog and professional profile, and now a bit about me:
+      I currently have five years of commercial development experience. My expertise is mostly in back-end development through Azure. 
+      However, I also have experience with developing native applications for desktops and android devices and I''ve also dabbled in infra ops through terraform.
     actions:
-      - label: Contact Me
-        url: /contact
+      - label: Dev.to
+        url: https://dev.to/albertbennett
+        style: button
+      - label: LinkedIn
+        url: https://www.linkedin.com/in/albert-bennett/
         style: button
   - section_id: recent-posts
     type: section_posts
