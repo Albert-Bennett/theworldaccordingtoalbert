@@ -38,7 +38,7 @@ sections:
     submit_label: Send Message
 seo:
   title: Contact
-  description: This is the contact page
+  description: This is the about page
   extra:
     - name: 'og:type'
       value: website
@@ -47,13 +47,13 @@ seo:
       value: Contact
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: This is the about page
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
       value: Contact
     - name: 'twitter:description'
-      value: This is the contact page
+      value: This is the about page
 layout: advanced
 ---
