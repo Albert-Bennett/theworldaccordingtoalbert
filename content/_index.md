@@ -6,14 +6,13 @@ sections:
     type: section_hero
     title: 'Hello! I''m Albert'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Sometimes the best way to envision the future is to invent it.
   - section_id: about
     type: section_content
     title: About
     content: >-
-      Welcome to the world according to Albert. This is my blog and professional profile, and now a bit about me:
-      I currently have five years of commercial development experience. My expertise is mostly in back-end development through Azure. 
+      Welcome to the world according to Albert. <br/> This is my blog and professional profile, and now a bit about me:
+      I currently have five years of commercial development experience. <br/> My expertise is mostly in back-end development through Azure.<br/>
       However, I also have experience with developing native applications for desktops and android devices and I''ve also dabbled in infra ops through terraform.
     actions:
       - label: Dev.to
